@@ -1,0 +1,11 @@
+
+Virtu:
+1.) Given an integer X, find the minimum distance to the closest fib number. Example: X=6, solution is 1 as 6 is one away from 5. Example: X=-2, solution is 2 as is 2 away from 0
+
+2.) Given a list A, the first value is the weight of a box before any apples are added. The [1:] indexes are the weights of apples. Given that the box cannot be more than 5000 in weight,
+what is the maximum number of apples that can fit inside the box.
+
+3.) HexSpeak - convert a decimal number in string format to hex, then convert that HEX to hexspeak.       
+  lut={10:'A',11:'B',12:'C',13:'D',14:'E',15:'F',0:'O',1:'I'}
+
+4.) Given a String S, what are the maximum number of unique substrings you can make like the following. S=“zzzyz”, ans is 9. 4 ‘z’, 2 ‘zz’, 1 ‘zzz’,1 ‘zzzz’, 1 ‘y’ (thought the ans was 8, but now less sure….)
